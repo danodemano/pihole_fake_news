@@ -16,6 +16,7 @@ afa.net
 afn.net
 aim4truth.org
 allnewspipeline.com
+alphanews.org
 alphanewsmn.com
 altermedzentrum.com
 alternativenews.com
@@ -25,6 +26,7 @@ altrighttv.com
 americamaxnews.com
 americanconservativemovement.com
 americanfreepress.net
+americangulag.org
 americanjournalreview.com
 americanlibertyemail.com
 americanlookout.com
@@ -68,6 +70,7 @@ brandnewtube.com
 breaking911.com
 breakingchristiannews.com
 breakingfirst.com
+breakingnews247.net
 brighteon.com
 britainfirst.org
 bugout.news
@@ -91,6 +94,7 @@ climate.news
 climatechangedispatch.com
 climatism.blog
 cloverchronicle.com
+cnnsofake.news
 cnsnews.com
 coasttocoastam.com
 collapse.news
@@ -119,6 +123,7 @@ dailyheadlines.net
 dailyhealthpost.com
 dailymail.co.uk
 dailyoccupation.com
+dailystormer.su
 dailysurge.com
 darkjournalist.com
 dataasylum.com
@@ -138,12 +143,14 @@ discoverthenetworks.org
 discovery.org
 distributednews.com
 djhjmedia.com
+doctors4covidethics.org
 donaldjtrump.com
 earthpulse.com
 echocheck.org
 ecology.news
 educate-yourself.org
 electroverse.net
+elizabethjohnston.org
 empireherald.com
 en-volve.com
 en.metapedia.org
@@ -171,6 +178,7 @@ freedomadvocates.org
 freedomainradio.com
 freedomdaily.com
 freedomfirstnetwork.com
+freedomproject.com
 freeworldnews.tv
 friatider.se
 fromthetrenchesworldreport.com
@@ -193,6 +201,7 @@ gnews.org
 godandscience.org
 godlikeproductions.com
 goodgopher.com
+goodsciencing.com
 goop.com
 gotquestions.org
 govtslaves.com
@@ -203,6 +212,7 @@ greatreject.org
 greenmedinfo.com
 greenvillegazette.com
 gulagbound.com
+hagmannreport.com
 halturnerradioshow.com
 hangthebankers.com
 hannity.com
@@ -296,6 +306,7 @@ needtoknow.news
 neonnettle.com
 newamericannews.com
 newnation.org
+newsexaminer.net
 newsfeedhunter.com
 newsheist.com
 newshourfirst.com
@@ -359,9 +370,11 @@ prophecynewswatch.com
 prophecytoday.com
 protrumpnews.com
 qanon.pub
+rairfoundation.com
 randpaul.news
 rapturenewsnetwork.com
 realclimatescience.com
+realconservativesunite.com
 realfarmacy.com
 realjewnews.com
 realnews24.com
@@ -384,6 +397,8 @@ rightwingnews.com
 rightwingtribune.com
 rinf.com
 ripostelaique.com
+rodong.rep.kp
+roguereview.net
 rsbnetwork.com
 rt.com
 rumble.com
@@ -404,6 +419,7 @@ smobserved.com
 snanews.de
 snopes.news
 sonsof1776.com
+sonsoflibertymedia.com
 sott.net
 southfront.org
 space.news
@@ -413,7 +429,6 @@ squawker.org
 staresattheworld.com
 stateofthenation.co
 stateofthenation2012.com
-steadfastandloyal.com
 stillnessinthestorm.com
 stonecoldtruth.com
 stormcloudsgathering.com
@@ -432,6 +447,7 @@ talknetwork.com
 teaparty.org
 technocracy.news
 tfp.org
+thealternativedaily.com
 theamericanmirror.com
 theautomaticearth.com
 thebeardedpatriot.com
@@ -464,6 +480,7 @@ thenationalpatriot.com
 thepatriotnation.net
 thepublicdiscourse.com
 thepuristonline.com
+theragingpatriot.org
 theredelephants.com
 thereligionofpeace.com
 therightstuff.biz
@@ -521,7 +538,6 @@ vdare.com
 veteranstoday.com
 vidmax.com
 vigilantcitizen.com
-viralcocaine.com
 viralhatch.com
 viralnewsnetwork.net
 votefraud.news
@@ -531,6 +547,7 @@ wallbuilders.com
 wattsupwiththat.com
 waynedupree.com
 welovetrump.com
+westernjournal.com/commentary
 westonaprice.org
 whale.to
 whatreallyhappened.com
@@ -542,9 +559,12 @@ worlddoctorsalliance.com
 worldgreynews.com
 worldhealth.net
 worldlifestyle.com
+worldtribune.com
 worldtruth.tv
 x22report.com
+yaliberty.org
 yesimright.com
+z3news.com
 zenith.news
 zerohedge.com
 21stcenturywire.com
@@ -583,6 +603,7 @@ newsmax.com
 odysee.com
 openvaers.com
 opindia.com
+patriotledger.com
 pharmacytimes.com
 pjmedia.com
 planet-today.com
@@ -592,6 +613,7 @@ realrawnews.com
 redpilled.ca
 redstate.com
 resistthemainstream.org
+ronpaulinstitute.org
 saraacarter.com
 thebeltwayreport.com
 thebl.com
@@ -610,6 +632,6 @@ vermontdailychronicle.com
 videobanned.nl
 visiontimes.com
 washingtontimes.com
-westernjournal.com
+washingtonwatch.org
 x10host.com
 xyz.net.au
